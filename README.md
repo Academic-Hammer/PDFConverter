@@ -1,7 +1,6 @@
 # PDFConvert
 Convert pdf to any other formats using Adobe DC SDK, like txt,xml,doc,docx,jpg,ps,rft etc.
-Notice: To run this project, you must install [Adobe Acrobat DC](https://www.adobe.com/cn/downloads.html?promoid=RL89NGY7&mv=other)  
-You may find new version on [PDFConverter](https://github.com/houking-can/PDFConverter)
+Notice: To run this project, you must install [Adobe Acrobat DC](https://www.adobe.com/cn/downloads.html?promoid=RL89NGY7&mv=other). You may find new version on [PDFConverter](https://github.com/houking-can/PDFConverter)
 ## Environment and Dependency 
 * Operating system: Windows 10 Professional
 * IDE: Visual Studio 2017 Community
